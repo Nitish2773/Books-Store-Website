@@ -20,6 +20,12 @@ provide 5 lines summary
 ChatGPT
 The Interactive Book Store Application is a ReactJS-based platform allowing users to browse, search, and purchase books seamlessly. It features pages for Home, Book List, Book Details, Cart, and Checkout, with intuitive navigation and real-time data integration via the IT Bookstore API. State management is handled with Redux or React Context, ensuring consistent cart functionality. Third-party packages enhance features like loading animations and tooltips. Future improvements include implementing user authentication for a personalized shopping experience.
 
+
+
+https://github.com/user-attachments/assets/1d2402f0-5bfb-4925-9847-7b525f99da4e
+
+
+
 > Demo
 
 ### Usage

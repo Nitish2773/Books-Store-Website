@@ -1,6 +1,6 @@
 # Interactive Book Store Application
 
-https://elegant-dasik-4e6857.netlify.app
+(https://nitishbookstore.netlify.app/)
 
 The Interactive Book Store Application is a comprehensive web platform designed to offer a seamless and engaging book shopping experience. Developed using ReactJS, this application leverages modern web technologies to provide robust functionality and a user-friendly interface. The project is organized with a clear structure and follows clean code guidelines to ensure maintainability and scalability. The application features multiple pages, including Home, Book List, Book Details, Cart, and Checkout, each tailored to enhance the user experience.
 
